@@ -1,0 +1,21 @@
+{
+    "host": "47.106.218.214",
+    "port": 3306,
+    "user": "go_study",
+    "password": "rrzuji",
+    "database": "study",
+    "table": "user",
+    "package_name": "models",
+    "struct_name": "User",
+    "enable_initialism": true,
+    "enable_field_comment": true,
+    "enable_sql_null": false,
+    "enable_guregu_null": false,
+    "enable_json_tag": true,
+    "enable_xml_tag": false,
+    "enable_gorm_tag": false,
+    "enable_xorm_tag": false,
+    "enable_beego_tag": false,
+    "enable_gorose_tag": false,
+    "enable_gorm_v2_tag": true
+}

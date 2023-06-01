@@ -1,0 +1,14 @@
+name: "test_go_mod"
+port: 8011
+logsAddress: "./logs/"
+
+mysql:
+  name: "go_study"
+  host: "47.106.218.214"
+  port: 3306
+  password: "rrzuji"
+  dbName: "study"
+
+redis:
+  host: "47.106.218.214"
+  port: 6379
